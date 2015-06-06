@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">myapp</string>
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+    <string name="question_text">sick</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toase">InCorrect!</string>
+    <string name="menu_setting">Setting</string>
+</resources>
